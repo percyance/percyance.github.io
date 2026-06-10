@@ -165,7 +165,7 @@ main {
   padding: 1rem 1.5rem 4rem;
 }
 
-section { padding-top: 2.2rem; }
+section { padding-top: 2.2rem; scroll-margin-top: 3.5rem; }
 
 h2 {
   font-family: var(--serif);
